@@ -2,7 +2,7 @@ repo_name: 2lambda123/svea_fix_pr
 report_id: 899d19964887b4c56b7beb4225ef1d48
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:56:18+00:00'
+timestamp: '2024-02-29T19:15:19+00:00'
 requested_by: Annika-wyt
 provider: github
 branch: main
@@ -41,7 +41,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/svea_fix_pr
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
